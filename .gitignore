@@ -7,6 +7,5 @@ __pycache__/
 er.xlsx
 er.json
 *.zip
-*.gz
 *.xlsx
 er.csv # You may want to try Git Large File Storage - https://git-lfs.github.com.
